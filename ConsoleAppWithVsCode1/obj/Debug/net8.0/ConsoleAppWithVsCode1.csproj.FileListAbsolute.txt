@@ -12,3 +12,4 @@ D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\refint\ConsoleApp
 D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.pdb
 D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.genruntimeconfig.cache
 D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ref\ConsoleAppWithVsCode1.dll
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.sourcelink.json
