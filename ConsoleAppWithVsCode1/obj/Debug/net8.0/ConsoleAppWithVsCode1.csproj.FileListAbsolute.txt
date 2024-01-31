@@ -1,0 +1,14 @@
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\bin\Debug\net8.0\ConsoleAppWithVsCode1.exe
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\bin\Debug\net8.0\ConsoleAppWithVsCode1.deps.json
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\bin\Debug\net8.0\ConsoleAppWithVsCode1.runtimeconfig.json
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\bin\Debug\net8.0\ConsoleAppWithVsCode1.dll
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\bin\Debug\net8.0\ConsoleAppWithVsCode1.pdb
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.AssemblyInfoInputs.cache
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.AssemblyInfo.cs
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.csproj.CoreCompileInputs.cache
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.dll
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\refint\ConsoleAppWithVsCode1.dll
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.pdb
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ConsoleAppWithVsCode1.genruntimeconfig.cache
+D:\Bridge-DotNet-VsCode\ConsoleAppWithVsCode1\obj\Debug\net8.0\ref\ConsoleAppWithVsCode1.dll
